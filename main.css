@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-fluid {
+  background-color: black;
+  margin-left: 50px;
+  background-color: black;
+}
+
+.row {
+  display: block;
+
+}
+
+img {
+  margin-left: $spacer-x !important;
+}
