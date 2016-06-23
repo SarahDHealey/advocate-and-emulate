@@ -16,7 +16,7 @@ request('https://freedomofanimals.com', function(err, resp, body){
 
     $('a', '#col-main').each(function(index) {
       var url = this.attribs.href;
-      console.log(url);
+      // console.log(url);
     });
 //cheerio allows you to implement core jQuery designed specifically for the server.
 //var $ is a standard so that it feels more like jQuery

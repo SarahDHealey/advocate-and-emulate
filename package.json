@@ -1,0 +1,20 @@
+{
+  "name": "g29-q1-project-proposals",
+  "version": "1.0.0",
+  "description": "### Students should submit a pull request with an updated README that outlines their project idea",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahDHealey/g29-Q1-project-proposals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahDHealey/g29-Q1-project-proposals/issues"
+  },
+  "homepage": "https://github.com/SarahDHealey/g29-Q1-project-proposals#readme"
+}
