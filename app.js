@@ -92,7 +92,7 @@ jQuery(document).ready(function ($) {
           productArray.push(element);
         });
         productArray.forEach(function(element){
-          $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+          $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
         });
       }});
     };
@@ -111,7 +111,7 @@ var fun3 = function() {
               productArray.push(element);
             });
             productArray.forEach(function(element){
-              $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+              $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
             });
           }});
         };
@@ -130,7 +130,7 @@ var fun4 = function() {
           productArray.push(element);
         });
         productArray.forEach(function(element){
-          $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+          $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
         });
       }});
     };
@@ -149,7 +149,7 @@ var fun5 = function() {
               productArray.push(element);
             });
             productArray.forEach(function(element){
-              $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+              $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
             });
           }});
         };
@@ -168,7 +168,7 @@ var fun6 = function() {
                   productArray.push(element);
                 });
                 productArray.forEach(function(element){
-                  $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                  $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                 });
               }});
             };
@@ -188,7 +188,7 @@ var fun6 = function() {
                       productArray.push(element);
                     });
                     productArray.forEach(function(element){
-                      $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                      $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                     });
                   }});
                 };
@@ -207,7 +207,7 @@ var fun8 = function() {
             productArray.push(element);
           });
           productArray.forEach(function(element){
-            $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+            $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
           });
         }});
       };
@@ -225,7 +225,7 @@ var fun8 = function() {
         //         productArray.push(element);
         //       });
         //       productArray.forEach(function(element){
-        //         $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+        //         $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
         //       });
         //     }});
 var fun9 = function() {
@@ -242,7 +242,7 @@ var fun9 = function() {
                     productArray.push(element);
                   });
                   productArray.forEach(function(element){
-                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                   });
                 }});
               };
@@ -261,7 +261,7 @@ var fun10 = function() {
                 productArray.push(element);
               });
               productArray.forEach(function(element){
-                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
               });
             }});
           };
@@ -280,7 +280,7 @@ var fun11 = function() {
                     productArray.push(element);
                   });
                   productArray.forEach(function(element){
-                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                   });
                 }});
               };
@@ -299,7 +299,7 @@ var fun12 = function() {
                         productArray.push(element);
                       });
                       productArray.forEach(function(element){
-                        $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                        $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                       });
                     }});
                   };
@@ -318,7 +318,7 @@ var fun12 = function() {
                 productArray.push(element);
               });
               productArray.forEach(function(element){
-                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
               });
             }});
           };
@@ -338,7 +338,7 @@ var fun12 = function() {
                 productArray.push(element);
               });
               productArray.forEach(function(element){
-                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
               });
             }});
           };
@@ -358,7 +358,7 @@ var fun12 = function() {
                 productArray.push(element);
               });
               productArray.forEach(function(element){
-                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
               });
             }});
           };
@@ -378,7 +378,7 @@ var fun12 = function() {
                     productArray.push(element);
                   });
                   productArray.forEach(function(element){
-                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                   });
                 }});
               };
@@ -398,7 +398,7 @@ var fun12 = function() {
                     productArray.push(element);
                   });
                   productArray.forEach(function(element){
-                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                    $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
                   });
                 }});
               };
@@ -418,7 +418,7 @@ var fun12 = function() {
                 productArray.push(element);
               });
               productArray.forEach(function(element){
-                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+                $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
               });
             }});
           };
@@ -438,7 +438,7 @@ var fun12 = function() {
   //                 productArray.push(element);
   //               });
   //               productArray.forEach(function(element){
-  //                 $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.XLarge.url + "'>"));
+  //                 $(".row").append($("<a />").attr({class: 'clickUrl', href:element.clickUrl}).html("<img src='" + element.image.sizes.Large.url + "'>"));
   //               });
   //       },
   //       error: function () {
