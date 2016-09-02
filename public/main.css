@@ -20,7 +20,7 @@
 }
 
 
-.jumbotron {
+#jumbotron {
   background: url("images/banners/david-sheldrick-elephant-orphanage.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -28,7 +28,8 @@
   background-size: cover;
   min-height: 60vh;
   opacity: 0.5;
-  /*position: relative;*/
+  z-index: -10;
+  position: relative;
 }
 
 h1 {
@@ -41,21 +42,10 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
-/*div.transbox {
-    width: 100%;
-    height: 100%;
-    background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.4;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
-/*}*/
-
-div#jumboText {
-  /*position: absolute;*/
-  /*background-color: black;*/
+#jumbotron::after {
     /*padding-top: 3em;*/
     width: 50%;
-    height: 65%;
+    height: 10vh;
     color: black;
     position: absolute;
     top: 7em;
