@@ -18,7 +18,7 @@ This website hits the shopstyle api to mine for current products that users can 
  * Visit http://localhost:3000
 
 ### Deployed Url
-[EmulateAndAdvocate Url:](https://emulateandadvocate.firebaseapp.com/)
+[EmulateAndAdvocate](https://emulateandadvocate.firebaseapp.com/)
 
-### Stunners Runthrough
-![Preview of Stunners App](/public/images/emulateandadvocate.gif?raw=true)
+### AdvocateAndEmulate Runthrough
+![Preview of AdvocateAndEmulate App](/public/images/emulateandadvocate.gif?raw=true)
